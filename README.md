@@ -1,0 +1,1 @@
+Validation rutines in javascript
